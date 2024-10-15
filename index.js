@@ -3,9 +3,7 @@ import cars from './data/cars.json' assert { type: 'json' }
 import states from './data/states.json' assert { type: 'json' }
 import trailers from './data/trailers.json' assert { type: 'json' }
 
-export default {
-  buildings,
-  cars,
-  states,
-  trailers
-}
+export { buildings }
+export { cars }
+export { states }
+export { trailers }
