@@ -1,4 +1,5 @@
 {
   "name": "@gvrealism/lists",
+  "main": "index.js",
   "type": "module"
 }
